@@ -15,7 +15,7 @@ On the first execution, the system automatically downloads vgg_face_weights.h5 a
 <br>
 
 
-C:\Users\username\.deepface\weights\vgg_face_weights.h5
+C:\Users\username\\.deepface\weights\vgg_face_weights.h5
 
 
 # 🤖 install vgg_face_weights.h5
