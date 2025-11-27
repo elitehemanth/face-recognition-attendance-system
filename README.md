@@ -26,7 +26,7 @@ https://github.com/serengil/deepface_models/releases/download/v1.0/vgg_face_weig
 
 Place the downloaded file in the directory:
 
-C:\Users\username\.deepface\weights\vgg_face_weights.h5
+C:\Users\username\\.deepface\weights\vgg_face_weights.h5
 
 
 This ensures the system can access the required model weights during execution.
