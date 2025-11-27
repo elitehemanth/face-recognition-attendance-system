@@ -13,6 +13,7 @@ streamlit run facescan.py
 <br>
 On the first execution, the system automatically downloads vgg_face_weights.h5 and stores it at:
 <br>
+
 C:\Users\username\.deepface\weights\vgg_face_weights.h5
 
 <br>
@@ -25,7 +26,7 @@ https://github.com/serengil/deepface_models/releases/download/v1.0/vgg_face_weig
 
 Place the downloaded file in the directory:
 
-C:\Users\username\.deepface\weights\vgg_face_weights.h5
+
 
 This ensures the system can access the required model weights during execution.
 
