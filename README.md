@@ -13,8 +13,7 @@ streamlit run facescan.py
 <br>
 On the first execution, the system automatically downloads vgg_face_weights.h5 and stores it at:
 <br>
-
-
+<br>
 C:\Users\username\\.deepface\weights\vgg_face_weights.h5
 
 
